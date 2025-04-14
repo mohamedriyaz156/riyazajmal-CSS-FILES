@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+nav{
+	background-color: black;
+	color: white;
+	padding: 20px;
+}
+
+h1,ul,li{
+			display: inline;
+		}
+
+		ul{
+			margin-left: 60%;
+		}
+
+		li{
+			color: grey;
+			cursor: pointer;
+		}
+
+		li:hover{
+			color: white;
+		}
+
+		input{
+			width: 60%;
+			padding: 15px;
+		}
+
+		.searchbar{
+			padding: 50px;
+			text-align: center;
+		}
+
+		.box1{
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+			display: inline-block;
+			height: 330px;
+			width: 250px;
+		}
+
+		.box2{
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+			display: inline-block;
+			height: 333px;
+			width: 270px;
+		}
+
+		.box3{
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+			display: inline-block;
+			height: 333px;
+			width: 250px;
+		}
+
+		.box4{
+			border-color: black;
+			border-width: 2px;
+			border-style: solid;
+			display: inline-block;
+			height: 333px;
+			width: 270px;
+		}
+
+		.box1:hover{
+				background-color: black;
+				color: white;
+		}
+
+		.box2:hover{
+				background-color: black;
+				color: white;
+		}
+
+		.box3:hover{
+				background-color: black;
+				color: white;
+		}
+
+		.box4:hover{
+				background-color: black;
+				color: white;
+		}
+
+		.about{
+			text-align: center;
+			margin-top: 20px;
+			padding: 20px;
+		}
+
+		.contact{
+			background-color: black;
+			color: white;
+			margin-top: 20px;
+			padding: 20px;
+		}
+nav{
+	background-color: black;
+	color: grey;
+}
+
+
+
+
+
+		
